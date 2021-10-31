@@ -1,0 +1,1 @@
+web: gunicorn AdvisorAss.wsgi --log-file -
