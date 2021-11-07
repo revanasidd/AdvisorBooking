@@ -13,9 +13,7 @@ django-filter==21.1
 django-oauth-toolkit==1.5.0
 django-templated-mail==1.1.1
 djangorestframework==3.12.4
-djangorestframework-jwt==1.11.0
 djangorestframework-oauth==1.1.0
-djangorestframework-simplejwt==4.8.0
 djoser==2.1.0
 gunicorn==20.1.0
 httplib2==0.14.0
